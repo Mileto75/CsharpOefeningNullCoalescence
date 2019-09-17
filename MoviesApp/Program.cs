@@ -1,7 +1,6 @@
-﻿using MoviesApp.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
-
+using Oefening1.Movie.Domain;
 namespace MoviesApp
 {
     class Program
